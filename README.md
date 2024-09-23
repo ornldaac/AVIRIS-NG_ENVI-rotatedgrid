@@ -185,7 +185,7 @@ band names = {
 
 ### 5. The ENVI Header File Reference - Closer Look
 
-*(The complete ENVI header file reference is accessible here: https://www.harrisgeospatial.com/docs/ENVIHeaderFiles.html)*
+*(The complete ENVI header file reference is accessible here: https://www.nv5geospatialsoftware.com/docs/ENVIHeaderFiles.html)*
 
 Spatial attributes (other than the projection definition, given as OGC standard Well Known Text in the `coordinate system string` field) are given in the `map info` field:
 
